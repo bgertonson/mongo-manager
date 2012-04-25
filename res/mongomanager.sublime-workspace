@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"minCategoryReviewers"
+			],
+			[
+				"max",
+				"maxReviewers"
+			],
+			[
+				"by",
+				"byVal"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"autofor",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tag auto",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"Tag Auto",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Tag AutoForm",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"Install Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package:Discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Set SYntax: Html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"Set Syntax HTml",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set Syntax asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"set asp",
+				"Set Syntax: ASP"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/source/github/mongo-manager/.gitignore",
+		"/C/clients/work-effects/source/m24.net/web.client/ReviewerSelection.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.widgets.translation.js",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.widgets.notification.js",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.apiclient.js",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.messaging.js",
+		"/C/clients/work-effects/source/m24.net/web.client/demo_nav.htm",
+		"/C/dev/source/personal/MongoBrowser/.gitignore",
+		"/C/clients/work-effects/source/m24.net/web.client/include/jquery.js",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM.txt",
+		"/C/clients/work-effects/resources/PLAN - F3 - Investment Counselor.txt",
+		"/C/clients/work-effects/resources/PLAN - F4 - IF Transactor.txt",
+		"/C/clients/work-effects/resources/PLAN - F5 - Trust Specialist.txt",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/CPB_GmisDataLoad_20120420.sql",
+		"/C/clients/work-effects/resources/PLAN - F1 - Private Banker.txt",
+		"/C/dev/source/code-heroes/mail-hero/src/MailHero/Web.config",
+		"/C/clients/work-effects/source/m24.net/web.client/role2.asp",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120406-00-OD-DELETE_DUPE_MATRIX.sql",
+		"/C/clients/work-effects/source/db_build2/BuildDB.rb",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F1 - Private Banker_03292012.txt",
+		"/C/clients/work-effects/resources/PLAN - F1 - Private Banker_04022012.txt",
+		"/C/clients/work-effects/resources/PLAN - F3 - Investment Counselor_04062012.txt",
+		"/C/clients/work-effects/resources/PLAN - F4 - IF Transactor_04062012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F3 - Investment Counselor_03302012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F3 - Investment Counselor_03232012.txt",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/CPB_GmisDataLoad_20120403.sql",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F4 - IF Transactor_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM_04062012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F4 - IF Transactor_03302012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F5 - Trust Specialist_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F1 - Private Banker_04062012.txt",
+		"/C/clients/work-effects/source/m24.net/web.client/include/skin_landing.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/Lists.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/default_s.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/login.asp",
+		"/C/clients/work-effects/source/m24.net/Workeffects.Minerva/WorkEffects.Minerva.WebClient/App_Data/GMIS/PLAN - F2 - GMM_04032012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F2 - GMM_03292012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F2 - GMM_03212012.txt",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM_04032012.txt",
+		"/C/clients/work-effects/source/m24.net/web.client/default.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/CommonFunctions.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/framework.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/languageswitch.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/ListLanguages.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/DEPRECATED/custlanguage2.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/base.css",
+		"/C/clients/work-effects/source/m24.net/web.client/include/base_theme.css",
+		"/C/clients/work-effects/source/Workeffects.DynamicReports/src/WorkEffects.DynamicReports.Core/SearchFilters/FilterCombiner.cs",
+		"/C/clients/work-effects/source/Workeffects.DynamicReports/src/WorkEffects.DynamicReports.Web/Controllers/HomeController.cs",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/cpb_005_managers.sql",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/CPB_GmisDataLoad.sql",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM_04022012.txt",
+		"/C/clients/work-effects/resources/old gmis/PLAN - F2 - GMM_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F1 - Private Banker_03292012.txt",
+		"/C/clients/work-effects/resources/PLAN - F4 - IF Transactor_03302012.txt",
+		"/C/clients/work-effects/resources/PLAN - F3 - Investment Counselor_03302012.txt",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM_03292012.txt",
+		"/C/clients/work-effects/source/m24.net/web.client/include/ResultList.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/landinghome.asp",
+		"/C/clients/work-effects/source/m24.net/Mockups/web/content/css/layout.css",
+		"/C/clients/work-effects/source/m24.net/web.client/surveyquestion.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/task.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/task2.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/customer.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wgt_faq.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/introduction.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/block_reports.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/block_providefeedback.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/block_raterselection.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/index.html",
+		"/C/clients/work-effects/source/m24.net/Mockups/web/index.html",
+		"/C/clients/work-effects/resources/PLAN - F5 - Trust Specialist_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F4 - IF Transactor_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F2 - GMM_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F1 - Private Banker_03232012.txt",
+		"/C/clients/work-effects/resources/PLAN - F3 - Investment Counselor_03232012.txt",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120308-01-OD-ScorecardQTextUpdate.sql",
+		"/C/clients/work-effects/resources/PLAN - F5 - Trust.txt",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/scorecard.csv",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/apac.sql",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/cpb_003_demos_us.sql",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/cpb/demo-setup.sql",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/apac.csv",
+		"/C/clients/work-effects/global24 scripts/PrivateBank_ManagerLoad.sql",
+		"/C/clients/work-effects/source/m24.net/web.client/include/skin_default.inc",
+		"/C/clients/work-effects/source/db_build2/global24/global24.config",
+		"/C/clients/work-effects/source/m24.net/web.client/module_test.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wgt_helloworld.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wgt_tasks.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wgt_resources.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/module2.inc",
+		"/C/dev/sites/godaddy/gertonson.com.bank/Web.config",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120222-01-DDL-HrDemo_Search.sql",
+		"/C/clients/work-effects/source/m24.net/web.client/AdminStatusByDemoExcel.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/frameWorkFX.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/introduction.asp.old.asp",
+		"/C/dev/source/personal/SafeSpend/db/01 Create Tables.sql",
+		"/C/clients/work-effects/source/m24.net/web.client/EmailSend3.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/config.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/timeoutscript.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/xssprevent.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/adovbs.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/include/bootstrap.css",
+		"/C/clients/work-effects/source/m24.net/web.client/toggle_translation_mode.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/translation_mode.inc",
+		"/C/clients/work-effects/source/m24.net/web.client/email2.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/mainmenu.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/user.asp",
+		"/C/Users/Bryan/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/ASP.sublime-package",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/Default.sublime-package",
+		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.widgets.css",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120305-01-DDL-CMProjectGroup-CMUserExternalData.sql",
+		"/C/clients/work-effects/source/m24.net/Workeffects.Minerva/WorkEffects.Minerva.WebClient/Content/css/scorecard.css",
+		"/C/clients/work-effects/source/m24.net/web.client/addrater2.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/cpb_pr.css",
+		"/C/Users/Bryan/Downloads/twitter-bootstrap-v2.0.0-42-g9143d8e/twitter-bootstrap-9143d8e/less/sprites.less",
+		"/C/clients/work-effects/source/m24/Workeffects.Minerva/Workeffects.Minerva.Core/TableMap.cs",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120228-OD-private_bank_changes.sql",
+		"/C/clients/work-effects/source/m24.net/web.client/include/ModuleSecurity.inc",
+		"/C/clients/work-effects/source/scriptbuddy/scriptbuddy/bin/Debug/demo-setup.sql",
+		"/C/clients/work-effects/source/m24.net/web.client/surveysubmit.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/ReviewerSelection-Group.asp",
+		"/C/clients/work-effects/source/m24.net/web.client/include/jquery.min.js",
+		"/C/clients/work-effects/source/m24/Workeffects.Minerva/WorkEffects.Minerva.Services/TranslationService.cs",
+		"/C/clients/work-effects/source/m24/Workeffects.Minerva/WorkEffects.Minerva.DAL/Repositories/TranslationRepository.cs",
+		"/C/clients/work-effects/source/m24.net/web.client/NewFaqView.asp",
+		"/C/clients/work-effects/source/db_build2/global24/scripts/20120229-01-OD-Demo_setup.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<all files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function DisplayMenu",
+			"5 - M",
+			"4 - M",
+			"1 - M",
+			"raterList",
+			"callShowConfirmDialog",
+			"submitted",
+			"submitRaters",
+			"4 - M",
+			"1 - M",
+			"5_M",
+			"4_M",
+			"1	F4_M2	F4_M3\n0000528433	Hau, Ying Wai Pat",
+			"1_M",
+			"\"",
+			"1_M",
+			"\"",
+			"type:",
+			"header:",
+			"'",
+			"1 - M",
+			"4 - M",
+			"1 - M",
+			"request.querystring\\(\"u",
+			"UserLangId",
+			"userid",
+			"LangId",
+			"langid",
+			"query",
+			"half",
+			"langId",
+			"languages",
+			".btn",
+			"CustStyleSheet",
+			"SkinFile",
+			"SKinFile",
+			"CustSkinFile",
+			"Skin",
+			"tasktype",
+			"4 - M",
+			"\\s$",
+			"5 - M",
+			"4 - M",
+			"1 - M",
+			"5 - M",
+			"4 - M",
+			"1 - M",
+			"Capital",
+			"Insert into CMTask",
+			"DetermineCssFile",
+			"cssfile",
+			"<select",
+			"dsptype",
+			"ActingAsBox",
+			"boTableBorderColor",
+			"<form",
+			"form",
+			", Where",
+			"QTextR = '",
+			"<div class=''leftIndented clicktoshow'' linktext=''(show/hide)'' wrapperelement=\"span\" style=''font-size: 1.1em''>",
+			"m24.pageload",
+			"\\r\\n\\r\\n",
+			"<div class=\"site-wrapper\">",
+			".site-wrapper",
+			"CMNewFaq",
+			"CMNewFaqTask",
+			".level0",
+			"a {\n	color: black;\n	text-decoration: underline; \n}\n\na:hover, .menu a:hover {\n	color: #444444;\n}\n	\n.menu a \n	{\n	background:transparent url(\"../images/carat_closed.gif\") no-repeat 0px -2px; \n	position: relative; \n	padding-left: 10px; \n	line-height: 1.8em; \n	text-decoration: none; \n	color: black;\n	font-size: .8em;\n	}",
+			"aryRelationshipActiveStatus",
+			"ion GetQTextLeft",
+			"</div>span>",
+			"SQL_DB",
+			"Response.Write",
+			"-------",
+			"<Script",
+			"\"></",
+			"Text",
+			"until",
+			"Until",
+			"        $('",
+			"introduction",
+			"column"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"\"",
+			"\"",
+			".button",
+			"",
+			"$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"listlang",
+				"ListLanguages.asp"
+			],
+			[
+				"introd",
+				"introduction.asp"
+			],
+			[
+				"wfx.wid",
+				"include/wfx.widgets.translation.js"
+			],
+			[
+				"framework",
+				"include/frameWorkFX.inc"
+			],
+			[
+				"demo",
+				"demo_nav.htm"
+			],
+			[
+				"demo_",
+				"demo_nav.htm"
+			],
+			[
+				"reviewersele",
+				"ReviewerSelection.asp"
+			],
+			[
+				"role2.asp",
+				"role2.asp"
+			],
+			[
+				"default.asp",
+				"default.asp"
+			],
+			[
+				"commonfun",
+				"include/CommonFunctions.inc"
+			],
+			[
+				"languageswi",
+				"languageswitch.asp"
+			],
+			[
+				"list.inc",
+				"include/ResultList.inc"
+			],
+			[
+				"custlanguag",
+				"DEPRECATED/custlanguage2.asp"
+			],
+			[
+				"base.css",
+				"include/base.css"
+			],
+			[
+				"base",
+				"include/base_theme.css"
+			],
+			[
+				"login.asp",
+				"login.asp"
+			],
+			[
+				"default_s",
+				"default_s.asp"
+			],
+			[
+				"lists.inc",
+				"include/Lists.inc"
+			],
+			[
+				"skin_landing",
+				"include/skin_landing.inc"
+			],
+			[
+				"index.ht",
+				"index.html"
+			],
+			[
+				"block_rat",
+				"include/block_raterselection.inc"
+			],
+			[
+				"block_pr",
+				"include/block_providefeedback.inc"
+			],
+			[
+				"block",
+				"include/block_providefeedback.inc"
+			],
+			[
+				"base_th",
+				"include/base_theme.css"
+			],
+			[
+				"default",
+				"default.asp"
+			],
+			[
+				"login",
+				"login.asp"
+			],
+			[
+				"intro",
+				"introduction.asp"
+			],
+			[
+				"wgtres",
+				"include/wgt_resources.inc"
+			],
+			[
+				"task2",
+				"task2.asp"
+			],
+			[
+				"customer",
+				"customer.asp"
+			],
+			[
+				"skin_",
+				"include/skin_default.inc"
+			],
+			[
+				"task.asp",
+				"task.asp"
+			],
+			[
+				"surveyquest",
+				"surveyquestion.asp"
+			],
+			[
+				"lists.ic",
+				"include/Lists.inc"
+			],
+			[
+				"skin_land",
+				"include/skin_landing.inc"
+			],
+			[
+				"skin_de",
+				"include/skin_default.inc"
+			],
+			[
+				"index.asp",
+				"AdminStatusByDemoExcel.asp"
+			],
+			[
+				"xsspre",
+				"include/xssprevent.inc"
+			],
+			[
+				"time",
+				"include/timeoutscript.inc"
+			],
+			[
+				"config.in",
+				"include/config.inc"
+			],
+			[
+				"adov",
+				"include/adovbs.inc"
+			],
+			[
+				"frame",
+				"include/frameWorkFX.inc"
+			],
+			[
+				"user.asp",
+				"user.asp"
+			],
+			[
+				"mainmenu",
+				"mainmenu.asp"
+			],
+			[
+				"email2",
+				"email2.asp"
+			],
+			[
+				"translation_mode",
+				"include/translation_mode.inc"
+			],
+			[
+				"widgets.css",
+				"include/wfx.widgets.css"
+			],
+			[
+				"wfx.translation",
+				"include/wfx.widgets.translation.js"
+			],
+			[
+				"rsg",
+				"ReviewerSelection-Group.asp"
+			],
+			[
+				"jquery.min",
+				"include/jquery.min.js"
+			],
+			[
+				"surveysub",
+				"surveysubmit.asp"
+			],
+			[
+				"newfaqview",
+				"NewFaqView.asp"
+			],
+			[
+				"modulesec",
+				"include/ModuleSecurity.inc"
+			],
+			[
+				"cpb_pr",
+				"include/cpb_pr.css"
+			],
+			[
+				"addrater2",
+				"addrater2.asp"
+			],
+			[
+				"addrater.asp",
+				"addrater.asp"
+			],
+			[
+				"mainmenu.asp",
+				"mainmenu.asp"
+			],
+			[
+				"surveysubmit",
+				"surveysubmit.asp"
+			],
+			[
+				"surveycomp",
+				"surveycomplete.asp"
+			],
+			[
+				"surveyintro",
+				"SurveyIntro.asp"
+			],
+			[
+				"",
+				"surveycomplete.asp"
+			],
+			[
+				"checkup",
+				"checkupsurvey.asp"
+			],
+			[
+				"config.inc",
+				"include/config.inc"
+			],
+			[
+				"surveycomplete",
+				"surveycomplete.asp"
+			],
+			[
+				"t_m",
+				"include/translation_mode.inc"
+			],
+			[
+				"modulese",
+				"include/ModuleSecurity.inc"
+			],
+			[
+				"changepass",
+				"changepassword.asp"
+			],
+			[
+				"dlre",
+				"DlReports.asp"
+			],
+			[
+				"email",
+				"email.asp"
+			],
+			[
+				"tm",
+				"include/translation_mode.inc"
+			],
+			[
+				"r360sg",
+				"Report360StatusGroup.asp"
+			],
+			[
+				"selectitems",
+				"selectitems.asp"
+			],
+			[
+				"si",
+				"SurveyIntro.asp"
+			],
+			[
+				"arssnl",
+				"ApproveRaterSimpleSelectNoLookup.asp"
+			],
+			[
+				"m24",
+				"m24.sublime-project"
+			],
+			[
+				"frameo",
+				"include/frameWorkFX.inc"
+			],
+			[
+				"wfx.notif",
+				"include/wfx.widgets.notification.js"
+			],
+			[
+				"add",
+				"addrater2.asp"
+			],
+			[
+				"wfxtran",
+				"include/wfx.widgets.translation.js"
+			],
+			[
+				"wfx.",
+				"include/wfx.messaging.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
