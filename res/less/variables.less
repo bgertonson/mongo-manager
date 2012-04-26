@@ -2,10 +2,15 @@
 // Variables to customize the look and feel of Bootstrap
 // -----------------------------------------------------
 
-
-
 // GLOBAL VALUES
 // --------------------------------------------------
+
+// Theme
+// -------------------------
+@themeBase:				#302013;
+@themeHilight:			#412b18;
+@themeAccent:			#429334;
+@themeBrand:			#f6d9a1;
 
 
 // Grays
@@ -30,12 +35,6 @@
 @pink:                  #c3325f;
 @purple:                #7a43b6;
 
-// Theme
-// -------------------------
-@themeBase: #302013;
-@themeHilight: #412b18;
-@themeAccent: #429334;
-
 
 // Scaffolding
 // -------------------------
@@ -45,7 +44,7 @@
 
 // Links
 // -------------------------
-@linkColor:             #08c;
+@linkColor:             @themeAccent;
 @linkColorHover:        darken(@linkColor, 15%);
 
 
@@ -165,7 +164,7 @@
 @navbarSearchBackgroundFocus:     @white;
 @navbarSearchBorder:              darken(@navbarSearchBackground, 30%);
 @navbarSearchPlaceholderColor:    #ccc;
-@navbarBrandColor:                @themeAccent;
+@navbarBrandColor:                @themeBrand;
 
 
 // Hero unit

@@ -1,0 +1,32 @@
+﻿@model MongoManager.Models.CollectionBrowseModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="span9">
+        <h2>Collections</h2>
+        <table class="table table-condensed">
+            <thead>
+                <tr>
+                    <th>Collection Name</th>
+                    <th>Document Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model.Collections)
+                {
+                    <tr>
+                        <td>@Html.ActionLink(item.Name, "Collection", "Browse", new {db = Model.Context.Database, collection = item.Name}, null)</td>
+                        <td>@item.DocumentCount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="span3">
+        <div class="well">
+            <h2>Actions</h2>
+        </div>
+    </div>
+</div>

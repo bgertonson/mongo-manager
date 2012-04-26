@@ -1,7 +1,38 @@
-﻿@model MongoManager.Models.MongoManagerView
+﻿@model MongoManager.Models.ConnectionModel
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "GetConnection";
 }
-
-<h2>Connect</h2>
+<div class="row">
+    <div class="span12">
+            @if(@Model.HasMessage())
+            {
+                <div class="alert alert-block alert-error">
+                        <h4 class="alert-heading">Connection Failed</h4>
+                        <p>@Model.Message</p>
+                </div>
+            }
+        <form class="form-horizontal" method="Post" action="/Root/SetConnection">
+        <fieldset>
+            <legend>New Connection</legend>
+            <div class="control-group">
+                @Html.LabelFor(m => m.Server, new {@class="control-label"})
+                <div class="controls">
+                    @Html.TextBoxFor(m => m.Server, new {@class="input-xlarge"})
+                </div>
+            </div>
+            <div class="control-group">
+                @Html.LabelFor(m => m.Port, new {@class="control-label"})
+                <div class="controls">
+                    @Html.TextBoxFor(m => m.Port, new {@class="input-xlarge"})
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <input type="submit" value="Connect" class="btn btn-primary"/>
+                </div>
+            </div>
+        </fieldset>
+        </form>
+    </div>
+</div>

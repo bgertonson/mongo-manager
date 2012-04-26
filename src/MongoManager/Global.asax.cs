@@ -19,9 +19,21 @@ namespace MongoManager
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "BrowseCollection",
+                url: "Browse/{db}/{collection}",
+                defaults: new {controller = "Browse", action = "Collection"}
+                );
+
+            routes.MapRoute(
+                name: "BrowseDatabase",
+                url: "Browse/{db}",
+                defaults: new {controller = "Browse", action = "Database"}
+                );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Root", action = "Index", id = UrlParameter.Optional }
             );
         }
 

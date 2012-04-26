@@ -19,8 +19,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "less/variables.less",
+			"settings":
+			{
+				"buffer_size": 6105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/bootstrap.less",
+			"settings":
+			{
+				"buffer_size": 1467,
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/LESS-build/MIN.LESS.sublime-build",
 	"command_palette":
 	{
 		"height": 242.0,
@@ -259,6 +275,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"brandAcc",
 			"function DisplayMenu",
 			"5 - M",
 			"4 - M",
@@ -363,8 +380,61 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "less/variables.less",
+					"settings":
+					{
+						"buffer_size": 6105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1094,
+								1094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/bootstrap.less",
+					"settings":
+					{
+						"buffer_size": 1467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -399,6 +469,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 265.0
+	},
 	"replace":
 	{
 		"height": 62.0
