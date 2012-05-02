@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using MongoManager.Services;
 
 namespace MongoManager.Controllers
@@ -27,9 +23,12 @@ namespace MongoManager.Controllers
             return View(model);
         }
 
-        public ActionResult Collection(string db, string collection)
+        public ActionResult Collection(string db, string collection, int? page)
         {
-            return Content(String.Format("{0}\\{1}", db, collection));
+            var url = _connections.GetConnection();
+            var browser = new BrowseService(url);
+            var model = browser.BrowseDocuments(db, collection, (page ?? 1) - 1);
+            return View(model);
         }
 
     }

@@ -1,0 +1,39 @@
+﻿@model MongoManager.Models.DocumentBrowseModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="span9">
+        <h2>Documents</h2>
+        <table class="table table-condensed">
+            <thead>
+                <tr>
+                    <th>Document</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model.Documents)
+                {
+                    <tr>
+                        <td><pre>@item.Json</pre></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="pagination pagination-centered">
+            <ul>
+                @for(int i=0; i<Model.PageCount; i++)
+                {
+                    var cname = i == Model.PageNumber ? "active" : (string) null;
+                    <li class="@cname">@Html.ActionLink((i+1).ToString(), "Collection", "Browse", new {db = Model.Context.Database, collection = Model.Context.Collection, page = i+1}, null)</li>
+                }
+            </ul>
+        </div>
+    </div>
+    <div class="span3">
+        <div class="well">
+            <h2>Actions</h2>
+        </div>
+    </div>
+</div>

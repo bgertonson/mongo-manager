@@ -34,6 +34,34 @@
 				"buffer_size": 1467,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"contents": "Select * From Person Where Lastname in ('Zapata',\n'Hobbs',\n'Dunlap',\n'Jorda',\n'Chow',\n'Velasquez',\n'Smyles',\n'Ludwick',\n'Jones',\n'Harris',\n'Hernandez',\n'Dayrit',\n'Czarkowski',\n'Dosek',\n'Wong',\n'Brooks',\n'King',\n'Romero',\n'Smith',\n'Lopez',\n'Gaddis',\n'Deveyra',\n'Eberhardt',\n'Millan',\n'Hauser',\n'Tso')",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows",
+				"name": "Select * From Person Where Lastname in ('Zapata',"
+			}
+		},
+		{
+			"file": "/C/Users/Bryan/Desktop/sample_spreadsheet.xml",
+			"settings":
+			{
+				"buffer_size": 3061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?xml version=\"1.0\"?>\n<?mso-application progid=\"Excel.Sheet\"?>\n<Workbook xmlns=\"urn:schemas-microsoft-com:office:spreadsheet\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns:ss=\"urn:schemas-microsoft-com:office:spreadsheet\" xmlns:html=\"http://www.w3.org/TR/REC-html40\">\n	<DocumentProperties xmlns=\"urn:schemas-microsoft-com:office:office\">\n		<Author>Work Effects</Author>\n		<LastAuthor>Work Effects</LastAuthor>\n		<Created>2012-4-26T22:47:3Z</Created>\n		<Version>14.00</Version>\n	</DocumentProperties>\n	<OfficeDocumentSettings xmlns=\"urn:schemas-microsoft-com:office:office\">\n		<AllowPNG/>\n	</OfficeDocumentSettings>\n	<ExcelWorkbook xmlns=\"urn:schemas-microsoft-com:office:excel\">\n		<WindowHeight>9780</WindowHeight>\n		<WindowWidth>9555</WindowWidth>\n		<WindowTopX>480</WindowTopX>\n		<WindowTopY>75</WindowTopY>\n		<ProtectStructure>False</ProtectStructure>\n		<ProtectWindows>False</ProtectWindows>\n	</ExcelWorkbook>\n	<Styles>\n		<Style ss:ID=\"Default\" ss:Name=\"Normal\"><Alignment ss:Vertical=\"Bottom\"/><Borders/><Font ss:FontName=\"Calibri\" x:Family=\"Swiss\" ss:Size=\"11\" ss:Color=\"#000000\"/><Interior/><NumberFormat/><Protection/></Style>\n	</Styles>\n	<Worksheet ss:Name=\"Sheet1\">\n		<Table ss:ExpandedColumnCount=\"4\" ss:ExpandedRowCount=\"10\" x:FullColumns=\"1\" x:FullRows=\"1\" ss:DefaultRowHeight=\"15\">\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Name</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">GEID</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Email</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Relationship</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Ive, Daniel Michael</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000303061</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">daniel.ive@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Scott, Carl William</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000312881</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">carl.scott@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Parasram, Navin Tarun</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000542894</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">navin.parasram@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Young, John</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000569956</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">john1.young@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Stoner, Peter Barry</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1001431979</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">peter.stoner@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Brigstock, Jamie Robert</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000285351</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">jamie.brigstock@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Internal Clients/Partners</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Ferguson, Paul Nicholas</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000122505</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">paul.nicholas.ferguson@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Peers</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Everaert, Natalie Diane</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000577273</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">natalie.everaert@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Peers</Data>\n				</Cell>\n			</Row>\n			<Row>\n				<Cell>\n					<Data ss:Type=\"String\">Konijnenberg, Johan Mark</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">1000183181</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">mark.konijnenberg@citi.com</Data>\n				</Cell>\n				<Cell>\n					<Data ss:Type=\"String\">Direct/Matrix Reports</Data>\n				</Cell>\n			</Row>\n		</Table>\n		<WorksheetOptions xmlns=\"urn:schemas-microsoft-com:office:excel\">\n			<Selected/>\n			<DoNotDisplayGridlines/>\n			<Panes>\n				<Pane>\n					<Number>3</Number>\n					<ActiveRow>1</ActiveRow>\n					<ActiveCol>2</ActiveCol>\n				</Pane>\n			</Panes>\n			<ProtectObjects>False</ProtectObjects>\n			<ProtectScenarios>False</ProtectScenarios>\n		</WorksheetOptions>\n	</Worksheet>\n</Workbook>",
+			"file": "/C/Users/Bryan/Downloads/export.xml",
+			"file_size": 4149,
+			"file_write_time": 129799720233780270,
+			"settings":
+			{
+				"buffer_size": 4978,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "Packages/LESS-build/MIN.LESS.sublime-build",
@@ -128,6 +156,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Bryan/Downloads/export (2).xls",
 		"/C/dev/source/github/mongo-manager/.gitignore",
 		"/C/clients/work-effects/source/m24.net/web.client/ReviewerSelection.asp",
 		"/C/clients/work-effects/source/m24.net/web.client/include/wfx.widgets.translation.js",
@@ -254,8 +283,7 @@
 		"/C/clients/work-effects/source/m24.net/web.client/include/jquery.min.js",
 		"/C/clients/work-effects/source/m24/Workeffects.Minerva/WorkEffects.Minerva.Services/TranslationService.cs",
 		"/C/clients/work-effects/source/m24/Workeffects.Minerva/WorkEffects.Minerva.DAL/Repositories/TranslationRepository.cs",
-		"/C/clients/work-effects/source/m24.net/web.client/NewFaqView.asp",
-		"/C/clients/work-effects/source/db_build2/global24/scripts/20120229-01-OD-Demo_setup.sql"
+		"/C/clients/work-effects/source/m24.net/web.client/NewFaqView.asp"
 	],
 	"find":
 	{
@@ -275,6 +303,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",",
+			"^",
+			"$",
 			"brandAcc",
 			"function DisplayMenu",
 			"5 - M",
@@ -365,6 +396,10 @@
 		"regex": true,
 		"replace_history":
 		[
+			"',",
+			"'",
+			",",
+			",$",
 			"\"\"",
 			"\"",
 			".button",
@@ -380,7 +415,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -434,6 +469,89 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								299
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Select * From Person Where Lastname in ('Zapata',",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Bryan/Desktop/sample_spreadsheet.xml",
+					"settings":
+					{
+						"buffer_size": 3061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3060,
+								2416
+							]
+						],
+						"settings":
+						{
+							"is_xml": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Bryan/Downloads/export.xml",
+					"settings":
+					{
+						"buffer_size": 4978,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4978,
+								4978
+							]
+						],
+						"settings":
+						{
+							"is_xml": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -469,10 +587,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 265.0
-	},
 	"replace":
 	{
 		"height": 62.0

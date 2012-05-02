@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoManager.Models;
 
@@ -61,6 +62,22 @@ namespace MongoManager.Services
             return model;
         }
 
+        public DocumentBrowseModel BrowseDocuments(string dbname, string collection, int page = 0, int pageSize = 10)
+        {
+            var model = new DocumentBrowseModel();
+            model.Context.Database = dbname;
+            model.Context.Collection = collection;
+            model.PageSize = pageSize;
+            model.PageNumber = page;
+            
+            var c = GetCollection(dbname, collection);
+            model.TotalItems = c.FindAll().Count();
+            model.PageCount = model.TotalItems/pageSize;
+            model.Documents =
+                c.FindAll().Skip(pageSize*page).Take(pageSize).Select(d => new DocumentItem {Json = d.ToJson()}).ToList();
+            return model;
+        }
+
         private MongoServer GetServer()
         {
             return MongoServer.Create(_url);
@@ -71,6 +88,12 @@ namespace MongoManager.Services
             var server = GetServer();
             var db = server.GetDatabase(name);
             return db;
+        }
+
+        private MongoCollection<BsonDocument> GetCollection(string dbName, string collection)
+        {
+            var db = GetDatabase(dbName);
+            return db.GetCollection(collection);
         }
     }
 }
